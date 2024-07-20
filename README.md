@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **ssachinsingh99@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://sachplayz.vercel.app](https://sachplayz.vercel.app)
+
+- 📄 Know about my experiences [https://bit.ly/sachindrak](https://bit.ly/sachindrak)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/singhsach1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="singhsach1" height="30" width="40" /></a>
