@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachplayz&label=Profile%20views&color=0e75b6&style=flat" alt="sachplayz" /> </p>
 
-- 🌱 I’m currently learning **Solidity, Smart Contracts**
+- 🌱 I’m currently learning **Solidity, Smart Contracts, Zero Knowledge Proofs, Cryptography**
 
 - 💬 Ask me about **NextJS, MERN Stack**
 
