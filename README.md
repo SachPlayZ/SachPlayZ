@@ -107,11 +107,11 @@ Currently exploring agentic workflows, prediction markets, and the design space 
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachplayz&layout=compact&langs_count=8&hide_border=true&title_color=0E75B6&text_color=8B949E&bg_color=0D1117" height="170" />
+<img src="https://streak-stats.demolab.com?user=sachplayz&hide_border=true&background=0D1117&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sachplayz&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachplayz&layout=compact&langs_count=8&hide_border=true&title_color=0E75B6&text_color=8B949E&bg_color=0D1117" height="170" />
 
 </div>
 
